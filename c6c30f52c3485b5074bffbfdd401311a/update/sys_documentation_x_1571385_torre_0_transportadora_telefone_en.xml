@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="telefone" label="Telefone" language="en" table="x_1571385_torre_0_transportadora">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>telefone</element>
+            <help/>
+            <hint/>
+            <label>Telefone</label>
+            <language>en</language>
+            <name>x_1571385_torre_0_transportadora</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-23 00:01:44</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Telefone</sys_name>
+            <sys_package display_value="Torre de controle logística " source="x_1571385_torre_0">c6c30f52c3485b5074bffbfdd401311a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Torre de controle logística ">c6c30f52c3485b5074bffbfdd401311a</sys_scope>
+            <sys_update_name>sys_documentation_x_1571385_torre_0_transportadora_telefone_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-23 00:01:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

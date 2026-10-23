@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="dda887dac3485b5074bffbfdd4013135" extends="task" label="Ocorrencia de entrega" max_length="40" name="x_1571385_torre_0_ocorrencia_de_entrega" type="collection">
+        <element label="Nota Fiscal" max_length="40" name="nota_fiscal" type="string"/>
+        <element label="CEP" max_length="9" name="cep" type="string"/>
+        <element label="Data prevista entrega" max_length="40" name="data_prevista_entrega" type="glide_date"/>
+        <element label="UF" max_length="2" name="uf" type="string"/>
+        <element choice="1" label="Tipo Ocorrencia" max_length="255" name="tipo_ocorrencia" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Atraso" sequence="1" value="atraso"/>
+                <element inactive_on_update="false" label="Avaria" sequence="0" value="avaria"/>
+                <element inactive_on_update="false" label="Falta" sequence="2" value="falta"/>
+                <element inactive_on_update="false" label="Recusa" sequence="3" value="recusa"/>
+            </choice>
+        </element>
+        <element label="Transportadora" max_length="40" name="transportadora" type="string"/>
+        <element label="Logradouro" max_length="40" name="logradouro" type="string"/>
+        <element label="Cidade" max_length="40" name="cidade" type="string"/>
+        <element label="Valor Mercadoria" max_length="20" name="valor_mercadoria" type="currency"/>
+    </element>
+</database>

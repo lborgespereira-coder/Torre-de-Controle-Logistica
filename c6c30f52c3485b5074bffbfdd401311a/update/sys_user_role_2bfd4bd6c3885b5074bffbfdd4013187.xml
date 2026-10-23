@@ -2,25 +2,25 @@
     <sys_user_role action="INSERT_OR_UPDATE">
         <assignable_by/>
         <can_delegate>true</can_delegate>
-        <description>Default user role</description>
+        <description/>
         <elevated_privilege>false</elevated_privilege>
-        <federated_id>8mL3y6/2hZN1c+PzlI6Hiwk5ECSfWuTBMJiFuUdzX9s=</federated_id>
+        <federated_id>kPUZv1lENRMwEsqjs/KoUAZFxPvNgtQuKjcPAnzLBdo=</federated_id>
         <grantable>true</grantable>
         <includes_roles/>
-        <name>x_1571385_torre_0.user</name>
+        <name>x_1571385_torre_0.gestor_logistica</name>
         <scoped_admin>false</scoped_admin>
-        <suffix>user</suffix>
+        <suffix>gestor_logistica</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-10-22 23:25:10</sys_created_on>
-        <sys_id>56c30f52c3485b5074bffbfdd401315e</sys_id>
+        <sys_created_on>2026-10-23 00:09:46</sys_created_on>
+        <sys_id>2bfd4bd6c3885b5074bffbfdd4013187</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_1571385_torre_0.user</sys_name>
+        <sys_name>x_1571385_torre_0.gestor_logistica</sys_name>
         <sys_package display_value="Torre de controle logística " source="x_1571385_torre_0">c6c30f52c3485b5074bffbfdd401311a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Torre de controle logística ">c6c30f52c3485b5074bffbfdd401311a</sys_scope>
-        <sys_update_name>sys_user_role_56c30f52c3485b5074bffbfdd401315e</sys_update_name>
+        <sys_update_name>sys_user_role_2bfd4bd6c3885b5074bffbfdd4013187</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-10-22 23:25:10</sys_updated_on>
+        <sys_updated_on>2026-10-23 00:09:46</sys_updated_on>
     </sys_user_role>
 </record_update>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="fc4b0752c3885b5074bffbfdd40131cb" label="Transportadora" max_length="40" name="x_1571385_torre_0_transportadora" type="collection">
+        <element label="Nome" max_length="40" name="nome" type="string"/>
+        <element label="Telefone" max_length="40" name="telefone" type="phone_number_e164"/>
+        <element label="Email contato" max_length="100" name="email_contato" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Ativa" max_length="40" name="ativa" type="boolean"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

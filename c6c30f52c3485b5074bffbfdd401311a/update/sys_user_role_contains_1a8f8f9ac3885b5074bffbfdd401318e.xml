@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</contains>
+        <role display_value="x_1571385_torre_0.operador_logistica" name="x_1571385_torre_0.operador_logistica">94edc3d6c3885b5074bffbfdd40131d1</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-23 00:16:31</sys_created_on>
+        <sys_id>1a8f8f9ac3885b5074bffbfdd401318e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>itil.x_1571385_torre_0.operador_logistica</sys_name>
+        <sys_package display_value="Torre de controle logística " source="x_1571385_torre_0">c6c30f52c3485b5074bffbfdd401311a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Torre de controle logística ">c6c30f52c3485b5074bffbfdd401311a</sys_scope>
+        <sys_update_name>sys_user_role_contains_1a8f8f9ac3885b5074bffbfdd401318e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-23 00:16:31</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
